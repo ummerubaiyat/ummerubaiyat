@@ -95,3 +95,8 @@ This readme was done because I am bored and obsessed.
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/appledora/count.svg" />
 </p>
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
