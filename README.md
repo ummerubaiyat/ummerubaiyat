@@ -21,6 +21,31 @@ class Introduction:
 ```
 </h3>
 
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/anaconda.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+<!-- [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist] -->
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
+<br />
+<br />
+
+---
+
 ## My stacks
 <img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=java&logoColor=8a2be2&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=8a2be2&labelColor=211e1b)![badge-laravel](https://img.shields.io/badge/laravel-211e1b?style=for-the-badge&logo=laravel&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
