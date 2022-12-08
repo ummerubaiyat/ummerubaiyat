@@ -114,8 +114,5 @@ This readme was done because I am bored and obsessed.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-```
-Update
-```
  
  
