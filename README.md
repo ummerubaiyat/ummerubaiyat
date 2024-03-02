@@ -1,7 +1,7 @@
 
 <!-- ![Metrics](https://metrics.lecoq.io/appledora?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&lines=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=4&config.timezone=Asia%2FDhaka&config.display=large) -->
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>MS Studied (Applied Statistics and DataScience) at <a href="http://www.unb.br">Jahangirnagar University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Studied MS in (Applied Statistics and DataScience) at <a href="http://www.unb.br">Jahangirnagar University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <!-- </br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </em></p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
