@@ -12,7 +12,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Introduction:
-    work: list[str] = ["DataScience", "MachineLeaning","DeepLearning", "ComputerVision" ]
+    work: list[str] = ["Autonomous Vehicle","DataScience", "MachineLeaning","DeepLearning", "ComputerVision" ]
     interest: list[str] = ["Astronomy","Books","Literature","ArtWork"]
     misc     : list[str] = ["Collaboration", "Competitions"]
     funfact  : str = None
